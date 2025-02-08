@@ -64,7 +64,7 @@ const Experience = () => {
           Our Journey So Far
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          UniPitch's Experience.
+          Quinova's Experience.
         </h2>
       </motion.div>
 

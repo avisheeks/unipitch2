@@ -28,6 +28,8 @@ import tripguide from "./tripguide.png";
 import krish from "./krish.jpg";
 import sarvesh from "./sarvesh.jpg";
 import gagan from "./gagan.jpg";
+import instagram from "./instagram.jpeg";
+import linkedin from "./linkedin.png";
 
 export {
   logo,
@@ -57,4 +59,6 @@ export {
   krish,
   sarvesh,
   gagan,
+  instagram,
+  linkedin,
 };

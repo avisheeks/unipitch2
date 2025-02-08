@@ -80,7 +80,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          At Unipitch, we provide comprehensive IT solutions tailored to your
+          At Quinova, we provide comprehensive IT solutions tailored to your
           business needs. From high-performance websites and custom content
           creation to efficient digital editing and more, we bring your ideas to
           life with innovation and precision.

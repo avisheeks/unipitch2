@@ -1,5 +1,5 @@
 {
-  "name": "UniPitch",
+  "name": "QuiNova",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,9 +16,11 @@
     "maath": "^0.5.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0",
     "react-parallax-tilt": "^1.7.276",
     "react-router-dom": "^6.8.1",
     "react-vertical-timeline-component": "^3.6.0",
+    "styled-components": "^6.1.14",
     "three": "^0.149.0"
   },
   "devDependencies": {

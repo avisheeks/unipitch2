@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        At UniPitch, we specialize in delivering top-notch IT solutions tailored 
+        At Quinova, we specialize in delivering top-notch IT solutions tailored 
         to your business needs. From dynamic website development and seamless 
         content creation to professional editing and digital transformation, we 
         ensure high-quality and scalable solutions. Our expertise spans across 

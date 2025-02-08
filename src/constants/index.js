@@ -22,6 +22,8 @@ import {
   krish,
   sarvesh,
   gagan,
+  instagram,
+  linkedin,
 } from "../assets";
 
 export const navLinks = [
@@ -159,7 +161,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "At Unipitch, we truly push the boundaries of creativity and technology. We collaborate seamlessly as a team to create exceptional projects for our clients.",
+      "At Quinova, we truly push the boundaries of creativity and technology. We collaborate seamlessly as a team to create exceptional projects for our clients.",
     name: "Gagandeep Ramola",
     designation: "Lead Developer",
     company: "Unipitch",
@@ -167,7 +169,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "The culture at Unipitch is one of constant learning and innovation. We all strive to help each other grow and achieve our best work. It's an amazing place to work.",
+      "The culture at Quinova is one of constant learning and innovation. We all strive to help each other grow and achieve our best work. It's an amazing place to work.",
     name: "Sarvesh Yadav",
     designation: "Content Strategist",
     company: "Unipitch",
@@ -175,7 +177,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Working at Unipitch means collaborating with an incredible team that values creativity, integrity, and excellence. I am proud of what we accomplish together.",
+      "Working at Quinova means collaborating with an incredible team that values creativity, integrity, and excellence. I am proud of what we accomplish together.",
     name: "Krish Dulwani",
     designation: "Full Stack Developer",
     company: "Unipitch",
@@ -185,7 +187,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Unipitch Website",
+    name: "Quinova Website",
     description:
       "A beautifully designed website for Unipitch showcasing our IT services, portfolio, and capabilities in website development, content creation, and more.",
     tags: [
@@ -248,5 +250,17 @@ const projects = [
     source_code_link: "https://github.com/yourrepo",
   },
 ];
+const footerLinks = [
+{
+ name:"Instagram",
+ image:instagram,
+ source_code_link:"https://www.instagram.com/unipitch5?igsh=N3h5OXRjMW5zdGEy",
+},
+{
+  name:"Linkedin",
+  image:linkedin,
+  source_code_link:"https://www.linkedin.com/in/uni-pitch-816845347?u",
+ },
+];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects,footerLinks};
