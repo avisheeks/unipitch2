@@ -2,6 +2,8 @@ import React from "react";
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 
+// import {AboutUs} from "./AboutUs";
+
 import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
@@ -60,8 +62,11 @@ const About = () => {
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
       </div>
+
+       {/* <AboutUs/> */}
     </>
   );
 };
 
 export default SectionWrapper(About, "about");
+
